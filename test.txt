@@ -1,3 +1,6 @@
+
+hi i'm kenzi
+
 Afficher et supprimer votre historique de navigation Chrome
 Vous pouvez consulter votre historique de navigation dans Chrome. Vous pouvez également poursuivre 
 votre navigation sur un ordinateur de bureau ou portable et retrouver les recherches associées.
@@ -6,3 +9,4 @@ Si vous ne voulez pas garder de trace des pages que vous avez consultées dans C
 supprimer votre historique de navigation en partie ou en totalité. Cette suppression est répercutée
  sur tous les appareils où vous êtes connecté à Chrome et sur lesquels vous synchronisez votre historique avec votre compte Google.
 ergergegergereg
+
